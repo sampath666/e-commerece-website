@@ -2,6 +2,23 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 
 project url - https://nxtwavecomapp.ccbp.tech
 
+
+- Prime User credentials
+
+  ```text
+   username: rahul
+   password: rahul@2021
+  ```
+
+- Non-Prime User credentials
+
+  ```text
+   username: raja
+   password: raja@2021
+  ```
+
+</details>
+
 ### Refer to the video below:
 
 <br/>
